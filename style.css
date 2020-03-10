@@ -7,7 +7,7 @@ body{
     }
     h1{
     margin:0px;
-    font-family:montserrat;
+    font-family:new York ;
     color:#fff;
     font-size:50px;
     }
@@ -20,7 +20,7 @@ body{
     margin:0px;
     color:#fff;
     font-weight:300;
-    font-family:montserrat;
+    font-family:new York ;
     font-size:22px;
     display:inline-block;
     letter-spacing:-1px;
@@ -65,7 +65,7 @@ body{
     div.footer i{
     color:#ccc;
     font-size:12px;
-    font-family:Montserrat;
+    font-family:new York;
     }
     div#particles-js{
     z-index:-1;
